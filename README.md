@@ -12,8 +12,13 @@ Detach balloon when module reaches certain position or region.</br>
 - Communication protocol UART. </br>
 ### Relay & detaching device 
 - Relay: given high voltage with digital signal from Arduino. </br>
-- Detaching device: Temporarily respresented with fuse on the wiring diagram. </br>
+- Detach device: Temporarily respresented with fuse on the wiring diagram. </br>
 
 ## Wiring
 ![alt text](./src/wiring.JPG)
 
+## Demo
+Represent detach device with LED. </br>
+Give off high voltage signal when reaching certain displacement. </br>
+![alt text](./src/log.jpg)
+![alt text](./src/demo.jpg)
